@@ -88,7 +88,6 @@ C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\bin\Debug\net5.
 C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\obj\Debug\net5.0\xUnitApp.csproj.AssemblyReference.cache
 C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\obj\Debug\net5.0\xUnitApp.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\obj\Debug\net5.0\xUnitApp.AssemblyInfoInputs.cache
 C:\Users\Igor\Desktop\XUnit-dotNetCore\XUnit-dotNetCore\xUnitApp\obj\Debug\net5.0\xUnitApp.AssemblyInfo.cs
